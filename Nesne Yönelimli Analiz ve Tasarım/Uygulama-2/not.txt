@@ -1,0 +1,9 @@
+Graf: https://foldercode.com/ub80
+
+# Kutuphane, Uye, Kitap, Odunc sınıflarını oluşturunuz.
+# Main içerisinde:
+  - Kutuphane nesnesi ile yeni bir kütüphane oluşturunuz.
+  - Uye nesnesi oluşturup, Kutuphaneye yeni üyeler ekleyiniz.
+  - Kitap nesnesi oluşturup, Kutuphaneye yeni kitaplar ekleyiniz.
+  - Odunc nesnesi oluşturup, Kutuphaneden kitap ödünç veriniz.
+  - System.out.println(kutuphane); yordamıyla kütüphanenin tüm bilgilerini yazdırınız.

@@ -1,0 +1,20 @@
+public class Kargo
+{
+    public int No;
+    public string Etiket;
+    public double Agirlik;
+    public string Arac;
+
+    public decimal CalculateCost()
+    {
+        if (Arac == "Karayolu")
+            return Weight * 1.5;
+        else if (Arac == "Denizyolu")
+            return Weight * 2.0;
+        else if (Arac == "Havayolu")
+            return Weight * 2.5;
+        else if (Arac == "Demiryolu")
+            return Weight * 2.5;
+        else return Weight;
+    }
+}

@@ -1,0 +1,6 @@
+Graf: fastupload.io/9ysY
+github.com/aliates/sau-dersler
++ Kara, deniz ve hava yoluyla taşıma yapan bir firma için:
++ Temel abstract Kargo sınıfını oluşturunuz.
++ Her bir taşıma yolu için Kargo sınıfından türeyen alt sınıfları oluşturunuz.
++ Yeni yollar eklendikçe, temel Kargo sınıfında Open-Closed ilkesine göre hiçbir değişiklik yapmayınız.
